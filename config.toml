@@ -1,0 +1,4 @@
+baseURL = 'https://eugenious.github.io/the-main-gig'
+languageCode = 'en-us'
+title = 'The Main Gig'
+theme = "hugo-theme-relearn"
