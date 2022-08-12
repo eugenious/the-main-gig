@@ -1,7 +1,9 @@
 ---
 title: "The Main Gig"
-date: 2022-08-09T22:30:56-04:00
 ---
 
-The main gig!
+A guide to developing developers and writing great software
 
+## Dedication
+
+*To Craig Laverty, who came up with the idea of side gigs, and to Youngkyu Kang, who inspired me to codify our team's collaboration practices.*
