@@ -15,7 +15,7 @@ Discuss with another developer who has solid knowledge in the domain of your tic
 
 It depends on the process your team has in place. Best practice is to have a lightweight "definition of ready", and the gathering of basic requirements before a ticket can be worked on by a developer. Generally speaking, demanding a full description of every detail before work begins is often time-consuming and usually not an efficient use of time.
 
-It is shockingly common for developers to build the wrong thing, because of a misunderstanding of the requirements or worse, missing or assumed requirements. Of course, it is still possible to build exactly according to the description in a ticket, and still build the wrong thing at a business/strategy level, but the developer can't be faulted for that. However, an experienced developer might in such a situation raise their concerns to the product owner or whoever is requesting the work.
+It is shockingly common for developers to build the wrong thing, because of a misunderstanding of the requirements or worse, missing or assumed requirements. Of course, it is still possible to build exactly according to the description in a ticket, and still build the wrong thing at a business/strategy level, but the developer can't be faulted for that. However, an experienced developer might in such a situation raise their concerns to the product owner or to whomever is requesting the work.
 
 So that covers the first goal of the technical consultation: to be clear about WHAT needs to be done. The second goal is to work out, in some detail, HOW the work should be done.
 

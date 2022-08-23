@@ -18,9 +18,9 @@ With the exception of small side projects or early-stage startups, the ideal cod
 
 We all hate dealing with undocumented features, and yet most developers hate writing documentation! You might embrace the task, or you might treat it like brushing your teeth. Either way, just do it! Getting good at writing documentation is getting good at communication in general, and if there is one soft skill that every successful developer should have, it's being good at communicating, in all its various forms.
 
-Yes, in fact, there is such a thing as documentation driven development, but it's generally not widely practiced. Perhaps it should be. If you are starting with reasonable requirements already described in the ticket, you're already half-way there! Writing documentation includes deciding how much is actually needed and where the documentation needs to live, be it in a user guide, an automatically generated API spec, a README file or as comments in the code.
+Yes, in fact, there is such a thing as documentation driven development, but it's generally not widely practiced. Perhaps it should be. If you are starting with a ticket which includes a reasonable description of the requirements, you're already half-way there. But some teams, in an attempt to go faster, will not go to the trouble to describe the requirements in detail. It's generally not a good idea to do that.
 
-Whereas requirements in tickets are often treated as ephemeral, the documentation has a lifecycle that aligns with the lifecycle of the application, or at least, the particular feature.
+Writing documentation includes deciding how much is actually needed and where the documentation needs to eventually live, be it in a user guide, an automatically generated API spec, a README file or as comments in the code. Whereas requirements in tickets are often treated as ephemeral, the official project documentation has a lifecycle that aligns with the lifecycle of the application, or at least, the particular feature.
 
 ## Write the tests
 
@@ -46,16 +46,16 @@ The unfortunate reality is there is a lot of bad code out there. If you are a bu
 
 ## But it doesn't work that way!
 
-It is called the ideal sequence because the bar is set impossibly high. It is exceedingly rare to execute the sequence flawlessly from the first step to the last, except on the tiniest of features. 
+It is called the ideal sequence because the bar is set impossibly high. It is exceedingly rare to execute the sequence flawlessly from the first step to the last, except for the tiniest of features.
 
-A more realistic picture of the process of coding goes like this. You think a little bit about the tests, you experiment with some code, you realize that to implement your new feature cleanly, some refactoring of the existing code is desired, you go back to the product owner to clarify something missed in the requirements, you finish the code, you finish the tests, then, oh yeah, you forgot to write the documentation so you do that. 
+A more realistic picture of the process of coding goes like this. You think a little bit about the tests, you experiment with some code, you realize that to implement your new feature cleanly, some refactoring of the existing code is desired, you go back to the product owner to clarify something missed in the requirements, you finish the code, you finish the tests, then, oh yeah, you forgot to write the documentation so you do that.
 
 Why bother describing the ideal sequence, if it is never to be achieved? Well, primarily to express a mindset. Actually, two mindsets.
 
 The first mindset is that producing quality software means a lot more than just writing the code for the feature. The second mindset is that the process of writing the documentation and the tests is often extremely beneficial to helping you understand the problem space of the feature you are implementing. Software development is very hard, and we can all use all the help we can get!
 
-The mindset of a junior developer and that of an experienced developer is a world apart.
+Let's compare the thinking of a novice developer versus an experienced developer:
 
-Junior developer: I'm so delighted, I got it working! It's a complex beast, and I'm not quite sure why I needed that line of code there, but I found it on Stack Overflow.
+Novice developer: I'm so delighted, I got it working! It's a complex beast, and I'm not quite sure why I needed that line of code there, but I found it on Stack Overflow.
 
-Experienced developer: I'm so delighted, I got it working, and the code looks beautiful, and the tests prove that it works, and the documentation describes how to use it.
+Experienced developer: I'm so delighted, I got it working! The code looks good, the tests prove that it works, and the documentation helps others to understand it.

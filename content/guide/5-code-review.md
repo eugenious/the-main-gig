@@ -9,7 +9,7 @@ Code reviews have become industry standard but it has not always been so! In the
 
 The mental model of what writing software is all about has changed dramatically: Not so much like Michaelangelo chipping away alone at a block of marble to make a masterpiece, but rather a group of dedicated athletes rowing together towards the finish line. When it comes to the highly complex work of telling a computer what to do, two minds are definitely better than one. Certainly, there are some superstar coding lone-rangers out there, but they are the exception, and very rare. The vast majority of code today is produced by teams.
 
-All developers should be well-versed in both preparing merge requests (also called pull requests) for review, as well as reviewing other people's merge requests. Unfortunately it is often a topic that is not emphasized in the formal education of most developers.
+All developers should be well-versed in both preparing merge requests (also called pull requests) for review, as well as reviewing other people's merge requests. Unfortunately, it is a topic that is not often emphasized in the formal education of most developers.
 
 ## Lining your ducks in a row
 
@@ -41,7 +41,7 @@ Instead, aim to receive a perfect code review, which is a quick approval with a 
 
 A code review can be bruising to your ego. Having someone scrutinize your work and criticize it is a bit frightening. The code reviewer should be sensitive to this, and always be kind and gentle when leaving comments. Be prompt to discuss synchronously in a real converation, rather than re-re-re-replying to a long and confusing comment thread.
 
-The developer should see a code review for the positive experience that it should be. It's a fantastic learning opportunity, and one of the best ways to improve your craft and learn from others. Always thank your review for helping you to see where your work might be improved, or at least for the opportunity to defend and justify your choices.
+The developer should see a code review for the positive experience that it should be. It's a fantastic learning opportunity, and one of the best ways to improve your craft and learn from others. Always thank your reviewer for helping you to see where your work might be improved, or at least for the opportunity to defend and justify your choices.
 
 ## Antipattern: Code review as an unpleasant chore
 

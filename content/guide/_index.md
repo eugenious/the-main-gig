@@ -6,4 +6,10 @@ A guide to developing developers and writing great software
 
 ## Dedication
 
-*To Craig Laverty, who came up with the idea of side gigs, and to Youngkyu Kang, who inspired me to codify our team's collaboration practices.*
+This guide is dedicated to:
+
+Craig Laverty, who came up with the idea of side gigs
+
+And to
+
+Youngkyu Kang, who inspired me to codify our team's collaboration practices

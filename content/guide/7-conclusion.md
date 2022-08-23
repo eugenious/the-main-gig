@@ -13,7 +13,7 @@ Great software comes from great teams. The main gig practices will help you deve
 
 ## A Personal Note
 
-I've been blessed to have many software jobs and many excellent software mentors, starting from my very first co-op workterm, when I thought four months was such a long time and I learned vi and felt so accomplished. I've worked with countless colleagues who taught me so much about the art of writing software, and gave so generously of their time. I've been at this gig for over two decades now, and writing this guide is one small way for me to give back to the larger software development community. 
+I've been blessed in my career to have had many software jobs and many excellent software mentors, starting from my very first co-op workterm, when I thought four months was such a long time and I learned vi and felt so accomplished. I've worked with countless colleagues who taught me so much about the art of writing software, and gave so generously of their time. I've been at this gig for over two decades now, and writing this guide is one small way for me to give back to the larger software development community.
 
 I want to say something which may seem so obvious that it should go without saying: You have to care. If you don't care about your craft, about getting better at it every day, you are in the wrong job. Writing code can be great fun, very rewarding, and a fulfilling career, but it's not for everybody. Even within the software industry there are many "non-coding" jobs which can lead to wonderful and rewarding careers. 
 
